@@ -2,6 +2,14 @@
 
 export default function Login() {
     return (
-        <h1>Hello this a login form!</h1>
+      <div className="loginformtag">
+        <form action="" method="get">
+            <header><center>Login Here!</center>
+            Enjoy uninterrupted music
+            </header>
+
+        </form>
+      </div>
+        
     )
 }
